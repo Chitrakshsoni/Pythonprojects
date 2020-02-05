@@ -1,0 +1,4 @@
+from collections import Counter
+a=input("Enter a string:")
+t=Counter(a)
+print(t)

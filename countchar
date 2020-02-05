@@ -1,0 +1,3 @@
+a=input("Enter a string:")
+b=input("Enter the character you want:")
+print("The count is:",a.count(b))

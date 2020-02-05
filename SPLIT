@@ -1,0 +1,4 @@
+a=input("Enter your email id:")
+x=a.split('@')
+print("Your user name is:",x[0])
+print("Your domain is:",x[1])
